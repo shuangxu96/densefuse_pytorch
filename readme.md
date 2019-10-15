@@ -34,7 +34,7 @@ The code is writted with torch 1.1.0 and pytorch-ssim.
 
 ### Quick start 
 1. Clone this repo and unpack it. 
-2. Download [test dataset]() and put test images in './images/IV_images'
+2. Download [test dataset](https://github.com/hli1221/imagefusion_densefuse/tree/master/images) and put test images in './images/IV_images'
 3. run 'main.py'
 
 ### Training
